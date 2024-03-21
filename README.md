@@ -23,4 +23,6 @@ This is a simple web application for calculating grades based on input marks in 
 
 ## Screenshot
 ![Project Screenshot](https://github.com/AdeelaSaleem/Grade-calculator/blob/b5130a6cc65efc2ba86717bf3dd044645bd42043/Screenshot%20.png)
+![Second Project Screenshot](https://github.com/AdeelaSaleem/Grade-calculator/blob/b99ac6068ba866da04391e883b10d9fcf8075676/Screenshot2.png)
+
 
